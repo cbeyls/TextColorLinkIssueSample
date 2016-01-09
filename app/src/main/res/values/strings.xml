@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextColorLinkIssueSample</string>
+    <string name="text_content">The following link should be shown in red color:\n http://www.google.com/</string>
+</resources>
